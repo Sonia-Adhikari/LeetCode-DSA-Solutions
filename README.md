@@ -12,12 +12,22 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 | ------- |
 | [0001-two-sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0242-valid-anagram) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
