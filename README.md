@@ -7,12 +7,14 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
+| [0621-task-scheduler](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -22,6 +24,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0621-task-scheduler](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0621-task-scheduler) |
 ## Queue
 |  |
 | ------- |
@@ -30,4 +33,13 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
