@@ -9,6 +9,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 | [0001-two-sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0621-task-scheduler) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 | [0387-first-unique-character-in-a-string](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0621-task-scheduler) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -48,4 +50,12 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
