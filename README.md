@@ -7,6 +7,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0621-task-scheduler) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -27,6 +28,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0621-task-scheduler) |
 ## Queue
@@ -58,4 +60,8 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
