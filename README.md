@@ -7,6 +7,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
@@ -78,6 +79,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
@@ -86,6 +88,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
