@@ -19,7 +19,7 @@ class Solution {
 
     double solve(double n, Long p){
         if(p == 0){
-            return 1.0;
+            return 1;
         }
 
         double half = solve(n, p/2);
