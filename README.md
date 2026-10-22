@@ -8,6 +8,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 | ------- |
 | [0001-two-sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
@@ -33,6 +34,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0242-valid-anagram) |
@@ -71,6 +73,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -94,4 +97,12 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
