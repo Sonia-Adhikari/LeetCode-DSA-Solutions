@@ -5,16 +5,31 @@ class Solution {
       for(int i = 0; i<arr.length; i++){
         int a = target - arr[i];
         if(map.containsKey(a)){
-            return new int[] {map.get(a),i};
+            return new int[] {map.get(a), i}; 
+        }else{
+            map.put(arr[i], i);
         }
-
-        map.put(arr[i], i);
       }
-
       return new int[] {};
+
+      
     }
 
 }
+
+
+
+
+// for(int i = 0; i<arr.length; i++){
+//         int a = target - arr[i];
+//         if(map.containsKey(a)){
+//             return new int[] {map.get(a),i};
+//         }
+
+//         map.put(arr[i], i);
+//       }
+
+//       return new int[] {};
 
 
 
