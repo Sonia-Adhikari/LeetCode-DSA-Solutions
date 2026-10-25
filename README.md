@@ -14,6 +14,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
+| [0287-find-the-duplicate-number](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0621-task-scheduler) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -78,10 +79,12 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 | [0015-3sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,4 +111,16 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
