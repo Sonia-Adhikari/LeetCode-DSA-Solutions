@@ -38,6 +38,10 @@ class Solution {
 
         return i;
 
+
+        //Here first loop is only for meeting of two pointer inside the loop not the specific entrance of the loop....
+        //While second loop tells the entrance of the loop inside the array which will give the duplicate...
+
        
         
     }
