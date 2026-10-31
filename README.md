@@ -9,6 +9,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 | [0001-two-sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -22,6 +23,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -72,6 +74,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
