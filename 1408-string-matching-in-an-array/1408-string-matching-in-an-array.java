@@ -7,12 +7,9 @@ class Solution {
             for(int j = 0; j<words.length; j++){
                 if(i == j) continue;
                 if(words[i].contains(words[j])){
-                    if(list.contains(words[j])){
-                        continue;
-                    }else{
+                    if(!list.contains(words[j])){
                         list.add(words[j]);
                     }
-                   
                 }
             }
         }
