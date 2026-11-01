@@ -3,12 +3,16 @@ class Solution {
 
         List<String> list = new ArrayList<>();
 
+        Arrays.sort(words, (a,b) -> Integer.compare(a.length(), b.length()));
+
+
         for(int i = 0; i<words.length; i++){
-            for(int j = 0; j<words.length; j++){
-                if(i == j) continue;
-                if(words[i].contains(words[j])){
-                    if(!list.contains(words[j])){
-                        list.add(words[j]);
+            for(int j = i+1; j<words.length; j++){
+                // if(i == j) continue;
+                if(words[j].contains(words[i])){
+                    if(!list.contains(words[i])){
+                        list.add(words[i]);
+                        break;
                     }
                 }
             }
@@ -18,3 +22,5 @@ class Solution {
         
     }
 }
+
+
