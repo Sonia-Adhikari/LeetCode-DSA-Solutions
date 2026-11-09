@@ -20,6 +20,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 | [0287-find-the-duplicate-number](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0621-task-scheduler) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1408-string-matching-in-an-array](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -50,6 +51,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 | [0169-majority-element](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0621-task-scheduler) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Queue
 |  |
 | ------- |
@@ -91,6 +93,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
