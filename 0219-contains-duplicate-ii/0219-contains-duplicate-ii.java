@@ -5,9 +5,10 @@ class Solution {
 
         
         for(int i = 0; i<nums.length; i++){
+
             if(map.containsKey(nums[i])){
-                int x = Math.abs(i - map.get(nums[i]));
-                if(x <= k) return true;
+                if(i - map.get(nums[i]) <= k) return true;
+                
             }
             map.put(nums[i], i);
         }
