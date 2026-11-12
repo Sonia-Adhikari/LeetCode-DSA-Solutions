@@ -149,4 +149,8 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
