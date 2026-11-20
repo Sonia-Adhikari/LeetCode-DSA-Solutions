@@ -9,6 +9,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 | [0001-two-sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
@@ -50,6 +51,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 | ------- |
 | [0015-3sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
@@ -93,6 +95,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 | ------- |
 | [0015-3sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
