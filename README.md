@@ -162,6 +162,7 @@ This repo contains my daily DSA solutions from leetcode, automatically synced us
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/0184-department-highest-salary) |
+| [1164-product-price-at-a-given-date](https://github.com/Sonia-Adhikari/LeetCode-DSA-Solutions/tree/master/1164-product-price-at-a-given-date) |
 ## Stack
 |  |
 | ------- |
